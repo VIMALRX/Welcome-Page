@@ -1,0 +1,73 @@
+img{
+    width: 50%;
+    height: 100vh;
+}
+.border{
+   display: flex;
+}
+form{
+    margin: 30px 15%;
+}
+i{
+    position: relative;
+    top: -20px;
+    left: 5px;
+}
+input{
+    height: 20px;
+    border-color: aqua;
+    border-radius: 10px;
+    
+}
+::placeholder{
+    padding-left: 30px;
+}
+#h6{
+    position: relative;
+    top: -20px;
+}
+#head{
+    color: rgb(15, 181, 231);
+    
+}
+button{
+    background-color:rgb(15, 181, 231); 
+    border: none;
+    padding: 5px;
+}
+#OR{
+    position: relative;
+    top: -33px;
+    z-index: 2;
+    box-shadow: 4px 5px solid red;
+    left: 70px;
+}
+hr{
+    position: relative;
+    left: px;
+    width: 150px;
+}
+.button{
+    width: 40px;
+    height: 30px;
+    background-color: lightgray;
+}
+.img{
+    width: 20px;
+    height: 10px;
+}
+.container{
+    position: relative;
+    top: -30px;
+    left: 0px;
+    display: flex;
+    justify-content: space-around;
+}
+/* 
+ #g{
+    width: 150px;
+    height: 100px;
+    position: relative;
+    top: 150px;
+    right: 130pt;
+} */
